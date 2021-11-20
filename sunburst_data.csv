@@ -1,0 +1,85 @@
+period_date,industry_text,quit_score,Ranking
+7/1/2021,Health care and social assistance,25,1
+7/1/2021,Education and health services,23,1
+6/1/2021,State and local government education,19,1
+8/1/2021,"State and local government, excluding education",19,1
+8/1/2021,Health care and social assistance,17,1
+6/1/2021,Real estate and rental and leasing,16.5,1
+7/1/2021,"State and local government, excluding education",16,1
+7/1/2021,Government,15.5,1
+7/1/2021,State and local,15,1
+6/1/2021,Government,14.5,1
+8/1/2021,Government,14.5,1
+6/1/2021,State and local,14,1
+8/1/2021,State and local,14,1
+6/1/2021,"State and local government, excluding education",13,1
+6/1/2021,Health care and social assistance,12.4,1
+8/1/2021,Education and health services,12.2,1
+8/1/2021,Federal,12,1
+6/1/2021,Education and health services,11.2,1
+7/1/2021,Federal,10,1
+7/1/2021,Financial activities,9.4,1
+7/1/2021,Real estate and rental and leasing,9.14286,1
+6/1/2021,Federal,9,1
+8/1/2021,Finance and insurance,9,1
+8/1/2021,Financial activities,8.4,1
+8/1/2021,Other services,8.28571,1
+7/1/2021,Accommodation and food services,8.11111,1
+7/1/2021,Finance and insurance,8,2
+6/1/2021,Accommodation and food services,7.875,2
+8/1/2021,Wholesale trade,7.8,2
+6/1/2021,Educational services,7.75,2
+7/1/2021,State and local government education,7.5,2
+8/1/2021,Accommodation and food services,7,2
+7/1/2021,Educational services,7,2
+6/1/2021,Nondurable goods manufacturing,7,2
+7/1/2021,Wholesale trade,7,2
+8/1/2021,"Transportation, warehousing, and utilities",6.88889,2
+8/1/2021,Real estate and rental and leasing,6.66667,2
+6/1/2021,Manufacturing,6.625,2
+6/1/2021,Wholesale trade,6.6,2
+8/1/2021,Nondurable goods manufacturing,6.55556,2
+8/1/2021,Manufacturing,6.5,2
+7/1/2021,Leisure and hospitality,6.36364,2
+8/1/2021,State and local government education,6.33333,2
+8/1/2021,Durable goods manufacturing,5.875,2
+8/1/2021,Total private,5.7971,2
+8/1/2021,Total nonfarm,5.77778,2
+7/1/2021,Nondurable goods manufacturing,5.63636,2
+6/1/2021,Durable goods manufacturing,5.625,2
+6/1/2021,Financial activities,5.6,2
+8/1/2021,"Trade, transportation, and utilities",5.6,2
+6/1/2021,Leisure and hospitality,5.45455,2
+7/1/2021,Durable goods manufacturing,5.44444,3
+7/1/2021,Total private,5.43056,3
+8/1/2021,Leisure and hospitality,5.42857,3
+7/1/2021,Manufacturing,5.4,3
+7/1/2021,"Trade, transportation, and utilities",5.2,3
+7/1/2021,Retail trade,5.18182,3
+6/1/2021,Total private,5.13235,3
+7/1/2021,Total nonfarm,5.1,3
+6/1/2021,Total nonfarm,5,3
+8/1/2021,Retail trade,4.91667,3
+7/1/2021,"Transportation, warehousing, and utilities",4.81818,3
+6/1/2021,Finance and insurance,4.5,3
+6/1/2021,Other services,4.3,3
+8/1/2021,Information,4.22222,3
+7/1/2021,Information,4.11111,3
+6/1/2021,"Transportation, warehousing, and utilities",3.92308,3
+6/1/2021,Information,3.72727,3
+6/1/2021,"Trade, transportation, and utilities",3.72727,3
+8/1/2021,Educational services,3.66667,3
+8/1/2021,Professional and business services,3.625,3
+6/1/2021,Professional and business services,3.53333,3
+6/1/2021,Retail trade,3.41667,3
+7/1/2021,Other services,3.4,3
+7/1/2021,Mining and logging,3.36364,3
+8/1/2021,Mining and logging,2.91667,3
+7/1/2021,Professional and business services,2.84211,3
+6/1/2021,Mining and logging,2.44444,3
+7/1/2021,"Arts, entertainment, and recreation",2.04167,3
+8/1/2021,"Arts, entertainment, and recreation",1.54167,3
+6/1/2021,"Arts, entertainment, and recreation",1.53846,3
+7/1/2021,Construction,0.95455,3
+8/1/2021,Construction,0.82609,3
+6/1/2021,Construction,0.76,3
