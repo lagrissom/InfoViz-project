@@ -1,253 +1,253 @@
-﻿date,industry,HI,JO,LD,OS,QU,TS,UO,score,new_score,color_code
-1/1/2021,Accommodation and food services,7.1,5.4,1.7,0.2,5.1,7,,2,2.74,#a6d96a
-1/1/2021,"Arts, entertainment, and recreation",7.1,4.5,4.1,0.1,3.8,8,,0.29,0.79,#d7191c
-1/1/2021,Construction,4.7,3.9,2.5,0.2,1.9,4.6,,0.44,0.71,#d7191c
-1/1/2021,Durable goods manufacturing,2.5,3.9,0.6,0.2,1.9,2.7,,5.5,2.7,#a6d96a
-1/1/2021,Education and health services,3,5.6,0.7,0.2,2,2.9,,6.57,3.71,#1a9641
-1/1/2021,Educational services,3.3,4.2,0.6,0.1,0.7,1.4,,2.67,1.12,#d7191c
-1/1/2021,Federal,1.1,2.7,0.6,0.5,0.9,2,,4.17,1.92,#fdae61
-1/1/2021,Finance and insurance,1.9,3.3,0.2,0.3,1.6,2.1,,15,2.74,#a6d96a
-1/1/2021,Financial activities,2.3,3.4,0.4,0.3,1.7,2.4,,7,2.4,#fdae61
-1/1/2021,Government,1.7,3.2,0.4,0.3,0.8,1.5,,5.75,1.82,#d7191c
-1/1/2021,Health care and social assistance,3,5.8,0.7,0.3,2.2,3.2,,7.14,4.1,#1a9641
-1/1/2021,Information,2.9,4.6,0.8,0.2,1.4,2.5,,3.88,2.35,#fdae61
-1/1/2021,Leisure and hospitality,7.1,5.3,2,0.2,4.9,7.1,,1.55,2.42,#fdae61
-1/1/2021,Manufacturing,2.9,4.2,0.7,0.2,2.1,3,,4.86,2.76,#a6d96a
-1/1/2021,Mining and logging,2.9,3.9,1.2,0.4,1.3,2.8,,1.92,1.61,#d7191c
-1/1/2021,Nondurable goods manufacturing,3.4,4.7,0.9,0.2,2.4,3.4,,4.11,2.93,#a6d96a
-1/1/2021,Other services,3.9,4.6,1.5,0.1,2.1,3.7,,1.87,1.99,#fdae61
-1/1/2021,Professional and business services,5.2,6.4,1.8,0.2,2.8,4.9,,2.22,2.93,#a6d96a
-1/1/2021,Real estate and rental and leasing,3.4,3.5,0.9,0.5,1.9,3.2,,2.22,1.56,#d7191c
-1/1/2021,Retail trade,5.1,5,1.1,0.1,3.5,4.7,,3.09,2.76,#a6d96a
-1/1/2021,State and local,1.8,3.3,0.4,0.2,0.7,1.4,,5.5,1.71,#d7191c
-1/1/2021,State and local government education,2,2.9,0.2,0.2,0.6,1.1,,7.5,1.27,#d7191c
-1/1/2021,"State and local government, excluding education",1.5,3.7,0.5,0.3,0.9,1.7,,6.2,2.4,#fdae61
-1/1/2021,Total nonfarm,18.9,23.3,6.1,1,11.3,18.4,1.4,2.57,11.79,#1a9641
-1/1/2021,Total private,26.9,35,8.8,1.5,15.9,26.3,,2.73,17.98,#1a9641
-1/1/2021,"Trade, transportation, and utilities",4.4,4.6,1.5,0.1,2.8,4.4,,2,2.24,#fdae61
-1/1/2021,"Transportation, warehousing, and utilities",4.1,5,3,0.2,2.3,5.5,,1.07,2.07,#fdae61
-1/1/2021,Wholesale trade,2.7,3.3,1.1,0.1,1.3,2.4,,1.73,1.3,#d7191c
-2/1/2021,Accommodation and food services,9,6.4,1.5,0.2,4.9,6.6,,1.53,1.87,#fdae61
-2/1/2021,"Arts, entertainment, and recreation",7.8,7.2,4.2,0.2,3,7.3,,0.57,1.52,#d7191c
-2/1/2021,Construction,5.4,3.6,3.3,0.2,2.3,5.8,,0.15,0.32,#d7191c
-2/1/2021,Durable goods manufacturing,2.9,3.8,0.6,0.2,1.8,2.6,,4.5,2.19,#fdae61
-2/1/2021,Education and health services,3,6.4,0.7,0.2,2,2.9,,7.71,4.35,#1a9641
-2/1/2021,Educational services,2.5,3,0.9,0.1,1.3,2.4,,2,1.31,#d7191c
-2/1/2021,Federal,1.3,3,0.4,0.4,0.6,1.4,,5.75,1.79,#d7191c
-2/1/2021,Finance and insurance,2,3.4,0.5,0.2,1.3,2,,5.4,2.16,#fdae61
-2/1/2021,Financial activities,2.3,3.3,0.6,0.2,1.5,2.3,,4.17,1.98,#fdae61
-2/1/2021,Government,1.4,3,0.4,0.3,0.9,1.6,,6.25,2,#fdae61
-2/1/2021,Health care and social assistance,3.1,7,0.7,0.2,2.1,3,,8.57,4.86,#1a9641
-2/1/2021,Information,3.3,3.9,1,0.4,1.5,2.9,,2.1,1.56,#d7191c
-2/1/2021,Leisure and hospitality,8.8,6.5,1.8,0.2,4.6,6.7,,1.28,1.81,#d7191c
-2/1/2021,Manufacturing,3.2,4.5,0.7,0.2,2.1,3,,4.86,2.76,#a6d96a
-2/1/2021,Mining and logging,3.2,3.3,1.4,0.2,2.1,3.7,,1.57,1.6,#d7191c
-2/1/2021,Nondurable goods manufacturing,3.8,5.6,0.9,0.2,2.5,3.7,,4.78,3.46,#1a9641
-2/1/2021,Other services,4.5,5,1.5,0.2,2.4,4.1,,1.93,2.12,#fdae61
-2/1/2021,Professional and business services,5.5,6.2,1.9,0.3,2.9,5.1,,1.89,2.62,#a6d96a
-2/1/2021,Real estate and rental and leasing,3,3.2,1,0.1,2.1,3.1,,2.3,1.74,#d7191c
-2/1/2021,Retail trade,4.8,5.1,1.2,0.1,3.6,4.9,,3.25,3.13,#a6d96a
-2/1/2021,State and local,1.4,3,0.4,0.3,1,1.7,,6.5,2.1,#fdae61
-2/1/2021,State and local government education,1.3,1.8,0.4,0.3,1,1.7,,3.75,1.21,#d7191c
-2/1/2021,"State and local government, excluding education",1.6,4.2,0.4,0.3,0.9,1.7,,8.75,2.83,#a6d96a
-2/1/2021,Total nonfarm,20.1,24.6,6,1,11.5,18.7,,2.67,12.11,#1a9641
-2/1/2021,Total private,28.3,37.4,8.7,1.5,16.4,26.6,,2.93,19.22,#1a9641
-2/1/2021,"Trade, transportation, and utilities",4.1,4.9,1.2,0.2,2.8,4.1,,3,2.78,#a6d96a
-2/1/2021,"Transportation, warehousing, and utilities",3.9,5.5,1.5,0.2,2.1,3.7,,2.47,2.63,#a6d96a
-2/1/2021,Wholesale trade,2.5,3.7,0.8,0.2,1.4,2.5,,3.25,1.97,#fdae61
-3/1/2021,Accommodation and food services,8.5,7.7,1.5,0.3,5.4,7.2,,3.07,3.81,#1a9641
-3/1/2021,"Arts, entertainment, and recreation",8.8,10.3,3.4,0.1,2.9,6.4,,1.29,2.87,#a6d96a
-3/1/2021,Construction,5.9,4.3,2,0.1,2.7,4.8,,0.55,0.78,#d7191c
-3/1/2021,Durable goods manufacturing,3.3,4.9,0.8,0.2,2,3,,4.5,2.84,#a6d96a
-3/1/2021,Education and health services,3.2,5.8,0.6,0.2,2.2,2.9,,8,3.98,#1a9641
-3/1/2021,Educational services,3.3,4,0.8,0.1,1.3,2.3,,2.5,1.48,#d7191c
-3/1/2021,Federal,1.2,4.2,0.3,0.4,0.6,1.3,,12,2.93,#a6d96a
-3/1/2021,Finance and insurance,2,3.9,0.6,0.2,1.2,2,,5.17,2.38,#fdae61
-3/1/2021,Financial activities,2.4,3.8,0.7,0.2,1.4,2.3,,4,2.15,#fdae61
-3/1/2021,Government,1.7,3.8,0.4,0.3,0.8,1.6,,7.25,2.32,#fdae61
-3/1/2021,Health care and social assistance,3.2,6.1,0.5,0.2,2.3,3,,10.4,4.46,#1a9641
-3/1/2021,Information,3.5,3.7,1,0.2,2.1,3.3,,2.3,1.77,#d7191c
-3/1/2021,Leisure and hospitality,8.5,8,1.8,0.3,5.1,7.1,,2.56,3.67,#1a9641
-3/1/2021,Manufacturing,3.5,5.7,1,0.2,2.1,3.3,,4.3,3.3,#1a9641
-3/1/2021,Mining and logging,5,4.8,0.6,0.1,1.5,2.3,,2.17,1.03,#d7191c
-3/1/2021,Nondurable goods manufacturing,3.9,7.1,1.2,0.1,2.4,3.7,,4.67,4.23,#1a9641
-3/1/2021,Other services,4.1,4.7,1.1,0.2,2.3,3.7,,2.64,2.24,#fdae61
-3/1/2021,Professional and business services,5.4,6.4,1.7,0.4,2.9,5.1,,2.29,2.93,#a6d96a
-3/1/2021,Real estate and rental and leasing,3.4,3.5,1,0,1.9,2.9,,2,1.49,#d7191c
-3/1/2021,Retail trade,5,5.6,1,0.2,3.6,4.8,,4.2,3.48,#1a9641
-3/1/2021,State and local,1.7,3.7,0.4,0.3,0.9,1.6,,7.25,2.32,#fdae61
-3/1/2021,State and local government education,1.7,2.7,0.4,0.2,0.9,1.5,,4.75,1.5,#d7191c
-3/1/2021,"State and local government, excluding education",1.8,4.8,0.5,0.3,0.9,1.7,,7.8,3.01,#a6d96a
-3/1/2021,Total nonfarm,20.7,27,5.3,1,12,18.6,1.2,3.45,14.24,#1a9641
-3/1/2021,Total private,29,39.9,7.7,1.5,17.3,26.6,,3.66,21.87,#1a9641
-3/1/2021,"Trade, transportation, and utilities",4.3,5.4,1,0.2,2.9,4.1,,4,3.22,#a6d96a
-3/1/2021,"Transportation, warehousing, and utilities",4,6.1,1.4,0.1,2.5,4,,3.29,3.41,#1a9641
-3/1/2021,Wholesale trade,2.6,4.3,0.7,0.2,1.6,2.5,,4.71,2.58,#a6d96a
-4/1/2021,Accommodation and food services,9.4,8.7,1.5,0.3,5.7,7.5,,3.33,4.17,#1a9641
-4/1/2021,"Arts, entertainment, and recreation",9.8,11.5,2.5,0.2,3,5.7,,1.88,3.27,#1a9641
-4/1/2021,Construction,4.4,4.5,2.1,0.2,2.4,4.7,,1.19,1.73,#d7191c
-4/1/2021,Durable goods manufacturing,2.8,5.7,0.9,0.3,2,3.2,,5.44,3.82,#1a9641
-4/1/2021,Education and health services,3.2,6.1,0.6,0.1,2.4,3.1,,8.83,4.44,#1a9641
-4/1/2021,Educational services,2.5,3.6,1,0.2,1.5,2.7,,2.6,1.9,#fdae61
-4/1/2021,Federal,1.5,4.7,0.3,0.4,0.6,1.3,,12.67,3.09,#a6d96a
-4/1/2021,Finance and insurance,2.1,4.3,0.3,0.3,1.6,2.1,,12.67,3.33,#1a9641
-4/1/2021,Financial activities,2.4,4.5,0.4,0.2,1.6,2.3,,9.25,3.15,#a6d96a
-4/1/2021,Government,1.6,4.1,0.4,0.3,0.8,1.5,,8.25,2.61,#a6d96a
-4/1/2021,Health care and social assistance,3.3,6.5,0.5,0.1,2.5,3.1,,11.4,4.91,#1a9641
-4/1/2021,Information,3.7,4,0.9,0.3,1.9,3.1,,2.44,1.71,#d7191c
-4/1/2021,Leisure and hospitality,9.5,9.1,1.7,0.2,5.3,7.2,,2.88,3.96,#1a9641
-4/1/2021,Manufacturing,3.3,6.3,0.9,0.2,2.3,3.5,,5.89,4.22,#1a9641
-4/1/2021,Mining and logging,3.5,3.6,1.2,0.3,1.9,3.3,,1.67,1.47,#d7191c
-4/1/2021,Nondurable goods manufacturing,3.9,7.2,1,0.2,2.8,4,,6.1,4.88,#1a9641
-4/1/2021,Other services,4.5,6.1,1.4,0.2,2.3,3.9,,2.79,2.87,#a6d96a
-4/1/2021,Professional and business services,5.1,7.1,1.4,0.3,3.7,5.4,,4.07,4.53,#1a9641
-4/1/2021,Real estate and rental and leasing,3.1,5.2,0.7,0.2,1.8,2.7,,5.57,3.1,#a6d96a
-4/1/2021,Retail trade,5.2,5.9,1,0.4,4.1,5.5,,4.8,4.06,#1a9641
-4/1/2021,State and local,1.6,4,0.4,0.2,0.9,1.5,,8.25,2.61,#a6d96a
-4/1/2021,State and local government education,1.6,2.9,0.4,0.2,0.9,1.5,,5.5,1.74,#d7191c
-4/1/2021,"State and local government, excluding education",1.7,5.3,0.4,0.3,0.9,1.6,,11.25,3.6,#1a9641
-4/1/2021,Total nonfarm,20.6,29.8,5,1.2,13.4,19.7,1.1,4.52,18.03,#1a9641
-4/1/2021,Total private,29.2,44.2,7.7,1.7,19.3,28.8,,4.45,27.06,#1a9641
-4/1/2021,"Trade, transportation, and utilities",4.5,5.7,1,0.3,3.5,4.8,,4.7,3.89,#1a9641
-4/1/2021,"Transportation, warehousing, and utilities",3.9,6.1,1.4,0.3,3.3,5,,3.93,4.3,#1a9641
-4/1/2021,Wholesale trade,3,4.8,0.8,0.2,2,3,,4.75,3,#a6d96a
-5/1/2021,Accommodation and food services,9.3,9.6,1.2,0.2,5.7,7,,5,5.12,#1a9641
-5/1/2021,"Arts, entertainment, and recreation",9.5,9,2.8,0.3,3,6.2,,0.89,1.72,#d7191c
-5/1/2021,Construction,4.1,4.1,2.2,0.3,2.1,4.5,,0.95,1.41,#d7191c
-5/1/2021,Durable goods manufacturing,3.1,5.9,0.8,0.2,1.6,2.6,,5.5,3.36,#1a9641
-5/1/2021,Education and health services,3.2,6.5,0.5,0.2,2.2,2.9,,11,4.69,#1a9641
-5/1/2021,Educational services,2.9,4.6,0.4,0.1,1.5,1.9,,8,2.64,#a6d96a
-5/1/2021,Federal,1.2,4.2,0.3,0.4,0.8,1.5,,12.67,3.17,#a6d96a
-5/1/2021,Finance and insurance,2,4.2,0.4,0.4,1.3,2.1,,8.75,2.94,#a6d96a
-5/1/2021,Financial activities,2.3,4.3,0.5,0.4,1.4,2.2,,6.8,2.77,#a6d96a
-5/1/2021,Government,1.5,3.9,0.3,0.2,0.7,1.3,,10.33,2.52,#a6d96a
-5/1/2021,Health care and social assistance,3.3,6.8,0.5,0.2,2.4,3.1,,11.8,5.08,#1a9641
-5/1/2021,Information,3.6,4.9,1,0.2,1.6,2.9,,2.9,2.16,#fdae61
-5/1/2021,Leisure and hospitality,9.4,9.5,1.4,0.2,5.3,6.9,,3.86,4.49,#1a9641
-5/1/2021,Manufacturing,3.5,6.5,0.9,0.2,2,3.1,,5.56,3.88,#1a9641
-5/1/2021,Mining and logging,3.8,4,1.3,0.4,1.7,3.4,,1.46,1.37,#d7191c
-5/1/2021,Nondurable goods manufacturing,4.1,7.4,1,0.2,2.7,3.9,,6,4.78,#1a9641
-5/1/2021,Other services,4,8,1,0.3,2.6,3.9,,6.6,5.25,#1a9641
-5/1/2021,Professional and business services,5.1,7,1.3,0.4,3,4.7,,3.77,3.84,#1a9641
-5/1/2021,Real estate and rental and leasing,3.1,4.3,0.8,0.3,1.6,2.7,,3.5,2.16,#fdae61
-5/1/2021,Retail trade,5.5,6.3,1,0.2,3.9,5,,4.7,3.92,#1a9641
-5/1/2021,State and local,1.5,3.9,0.3,0.2,0.7,1.3,,10.33,2.52,#a6d96a
-5/1/2021,State and local government education,1.8,3.2,0.3,0.1,0.7,1.1,,7,1.65,#d7191c
-5/1/2021,"State and local government, excluding education",1.2,4.6,0.4,0.3,0.8,1.5,,10.5,3.32,#1a9641
-5/1/2021,Total nonfarm,20.4,30.5,4.6,1.2,12.1,18.2,1,4.83,17.72,#1a9641
-5/1/2021,Total private,29,45.6,7,1.8,17.6,26.3,,4.89,27.01,#1a9641
-5/1/2021,"Trade, transportation, and utilities",4.7,5.8,1,0.2,3.1,4.3,,4.2,3.41,#1a9641
-5/1/2021,"Transportation, warehousing, and utilities",4.4,5.9,1.3,0.2,2.6,4.2,,3.15,3.13,#a6d96a
-5/1/2021,Wholesale trade,2.9,4.6,0.8,0.1,1.6,2.5,,4.13,2.5,#a6d96a
-6/1/2021,Accommodation and food services,9.5,10.3,0.8,0.2,5.5,6.5,,7.88,5.61,#1a9641
-6/1/2021,"Arts, entertainment, and recreation",8.8,9.6,2.6,0.1,3.2,5.9,,1.54,2.78,#a6d96a
-6/1/2021,Construction,5,4.4,2.5,0.1,2.5,5.1,,0.76,1.28,#d7191c
-6/1/2021,Durable goods manufacturing,3.7,6.1,0.8,0.2,2.1,3.1,,5.63,3.58,#1a9641
-6/1/2021,Education and health services,3.4,6.7,0.5,0.2,2.3,3.1,,11.2,4.82,#1a9641
-6/1/2021,Educational services,3.6,5.4,0.4,0.1,1.3,1.8,,7.75,2.54,#a6d96a
-6/1/2021,Federal,1.3,4,0.4,0.5,0.9,1.7,,9,2.91,#a6d96a
-6/1/2021,Finance and insurance,2.1,3.6,0.6,0.4,1.2,2.2,,4.5,2.12,#fdae61
-6/1/2021,Financial activities,2.4,3.8,0.5,0.4,1.4,2.3,,5.6,2.3,#fdae61
-6/1/2021,Government,2,4.2,0.2,0.2,0.7,1.2,,14.5,2.49,#a6d96a
-6/1/2021,Health care and social assistance,3.3,7,0.5,0.3,2.5,3.3,,12.4,5.38,#1a9641
-6/1/2021,Information,3.3,5.6,1.1,0.4,1.8,3.2,,3.73,3.05,#a6d96a
-6/1/2021,Leisure and hospitality,9.4,10.2,1.1,0.2,5.2,6.5,,5.45,5.13,#1a9641
-6/1/2021,Manufacturing,3.9,6.7,0.8,0.2,2.5,3.5,,6.63,4.31,#1a9641
-6/1/2021,Mining and logging,4,4.3,0.9,0.2,1.9,3,,2.44,1.69,#d7191c
-6/1/2021,Nondurable goods manufacturing,4.3,7.6,0.9,0.2,3,4.1,,7,5.17,#1a9641
-6/1/2021,Other services,5,7,1,0.1,2.3,3.4,,4.3,3.32,#1a9641
-6/1/2021,Professional and business services,5.6,7.6,1.5,0.5,3.3,5.3,,3.53,4.13,#1a9641
-6/1/2021,Real estate and rental and leasing,3.1,4.2,0.2,0.3,2.2,2.6,,16.5,3.06,#a6d96a
-6/1/2021,Retail trade,7.3,7.2,1.2,0.2,4.2,5.6,,3.42,3.38,#1a9641
-6/1/2021,State and local,2.1,4.2,0.2,0.2,0.7,1.1,,14,2.37,#fdae61
-6/1/2021,State and local government education,2.7,4.3,0.1,0.1,0.3,0.6,,19,1.63,#d7191c
-6/1/2021,"State and local government, excluding education",1.4,4.2,0.3,0.3,1.1,1.7,,13,3.32,#1a9641
-6/1/2021,Total nonfarm,23,32.5,4.6,1.5,13,18.9,0.9,4.89,18.1,#1a9641
-6/1/2021,Total private,33.1,49.5,6.8,2.2,18.5,27.6,,5.13,28,#1a9641
-6/1/2021,"Trade, transportation, and utilities",5.8,6.6,1.1,0.2,3.3,4.6,,3.73,3.31,#1a9641
-6/1/2021,"Transportation, warehousing, and utilities",4.5,7,1.3,0.3,2.6,4.2,,3.92,3.89,#1a9641
-6/1/2021,Wholesale trade,3.1,4.6,0.5,0.2,1.8,2.5,,6.6,2.75,#a6d96a
-7/1/2021,Accommodation and food services,9.6,11.3,0.9,0.2,5.6,6.7,,8.11,6.44,#1a9641
-7/1/2021,"Arts, entertainment, and recreation",8.7,10.2,2.4,0.1,3.4,6,,2.04,3.5,#1a9641
-7/1/2021,Construction,5.1,4.5,2.2,0.2,2.7,5.2,,0.95,1.48,#d7191c
-7/1/2021,Durable goods manufacturing,3.4,6.3,0.9,0.1,2,3,,5.44,3.77,#1a9641
-7/1/2021,Education and health services,3.3,7.7,0.3,0.2,2.5,2.9,,23,6.25,#1a9641
-7/1/2021,Educational services,3.1,5.2,0.5,0.1,1.4,1.9,,7,2.77,#a6d96a
-7/1/2021,Federal,1.7,4,0.3,0.5,0.7,1.4,,10,2.47,#a6d96a
-7/1/2021,Finance and insurance,2.2,5,0.5,0.4,1.2,2,,8,3.2,#a6d96a
-7/1/2021,Financial activities,2.5,5.7,0.5,0.3,1.5,2.3,,9.4,3.86,#1a9641
-7/1/2021,Government,2.2,4.6,0.2,0.2,0.7,1.2,,15.5,2.66,#a6d96a
-7/1/2021,Health care and social assistance,3.3,8.1,0.3,0.2,2.7,3.1,,25,6.84,#1a9641
-7/1/2021,Information,3.6,5.5,0.9,0.1,1.8,2.9,,4.11,2.82,#a6d96a
-7/1/2021,Leisure and hospitality,9.5,11.2,1.1,0.2,5.3,6.6,,6.36,6,#1a9641
-7/1/2021,Manufacturing,3.8,6.8,1,0.1,2.4,3.5,,5.4,4.2,#1a9641
-7/1/2021,Mining and logging,3.8,6,1.1,0.2,1.5,2.7,,3.36,2.63,#a6d96a
-7/1/2021,Nondurable goods manufacturing,4.6,7.7,1.1,0.2,3.1,4.4,,5.64,4.96,#1a9641
-7/1/2021,Other services,4.8,7.4,1.5,0.2,2.5,4.2,,3.4,3.76,#1a9641
-7/1/2021,Professional and business services,6,8.1,1.9,0.4,3.3,5.7,,2.84,4.05,#1a9641
-7/1/2021,Real estate and rental and leasing,3.5,7.5,0.7,0.1,2.4,3.2,,9.14,5.25,#1a9641
-7/1/2021,Retail trade,5.6,6.9,1.1,0.3,4.4,5.8,,5.18,4.79,#1a9641
-7/1/2021,State and local,2.3,4.6,0.2,0.2,0.7,1.1,,15,2.54,#a6d96a
-7/1/2021,State and local government education,2.8,3.9,0.2,0.1,0.4,0.7,,7.5,1.17,#d7191c
-7/1/2021,"State and local government, excluding education",1.7,5.5,0.3,0.3,1,1.7,,16,4.08,#1a9641
-7/1/2021,Total nonfarm,22.7,34.9,4.9,1.1,13.5,19.4,0.8,5.24,20.52,#1a9641
-7/1/2021,Total private,32.1,52.1,7.2,1.6,19.1,27.7,,5.43,31.03,#1a9641
-7/1/2021,"Trade, transportation, and utilities",4.8,6.5,1,0.2,3.5,4.7,,5.2,4.29,#1a9641
-7/1/2021,"Transportation, warehousing, and utilities",4.3,7.3,1.1,0.2,2.3,3.6,,4.82,4.06,#1a9641
-7/1/2021,Wholesale trade,3.2,4.4,0.5,0.1,2.3,2.8,,7,2.97,#a6d96a
-8/1/2021,Accommodation and food services,8.2,10,1.2,0.2,6.6,8.1,,7,7.32,#1a9641
-8/1/2021,"Arts, entertainment, and recreation",9,9.5,2.4,0.1,3.2,5.6,,1.54,2.59,#a6d96a
-8/1/2021,Construction,5.3,4.6,2.3,0.3,2.6,5.2,,0.83,1.32,#d7191c
-8/1/2021,Durable goods manufacturing,3.4,5.9,0.8,0.2,2.2,3.2,,5.88,3.76,#1a9641
-8/1/2021,Education and health services,3.4,7,0.5,0.1,2.5,3.1,,12.2,5.25,#1a9641
-8/1/2021,Educational services,3.8,4.8,0.6,0.1,1.2,1.9,,3.67,1.67,#d7191c
-8/1/2021,Federal,1.6,4.5,0.3,0.5,0.7,1.5,,12,3,#a6d96a
-8/1/2021,Finance and insurance,1.9,4.2,0.4,0.3,1.3,2,,9,3,#a6d96a
-8/1/2021,Financial activities,2.3,5.1,0.5,0.3,1.4,2.2,,8.4,3.42,#1a9641
-8/1/2021,Government,1.6,3.7,0.2,0.3,0.8,1.3,,14.5,2.51,#a6d96a
-8/1/2021,Health care and social assistance,3.4,7.4,0.4,0.2,2.8,3.4,,17,6.08,#1a9641
-8/1/2021,Information,3.8,6.1,0.9,0.5,1.5,2.9,,4.22,2.9,#a6d96a
-8/1/2021,Leisure and hospitality,8.4,9.9,1.4,0.2,6.1,7.7,,5.43,6.43,#1a9641
-8/1/2021,Manufacturing,3.8,6.5,0.8,0.2,2.5,3.6,,6.5,4.25,#1a9641
-8/1/2021,Mining and logging,3.7,5.6,1.2,0.2,1.6,2.9,,2.92,2.48,#a6d96a
-8/1/2021,Nondurable goods manufacturing,4.6,7.5,0.9,0.2,3,4.2,,6.56,4.86,#1a9641
-8/1/2021,Other services,4.3,7.8,0.7,0.1,2.3,3.2,,8.29,4.76,#1a9641
-8/1/2021,Professional and business services,5.7,8.2,1.6,0.4,3.3,5.4,,3.63,4.47,#1a9641
-8/1/2021,Real estate and rental and leasing,3.3,7.5,0.9,0.3,1.8,2.9,,6.67,4.58,#1a9641
-8/1/2021,Retail trade,6.1,7.2,1.2,0.3,4.8,6.2,,4.92,4.94,#1a9641
-8/1/2021,State and local,1.6,3.6,0.2,0.2,0.8,1.3,,14,2.43,#fdae61
-8/1/2021,State and local government education,1.6,2.8,0.3,0.2,0.7,1.2,,6.33,1.52,#d7191c
-8/1/2021,"State and local government, excluding education",1.7,4.5,0.2,0.3,1,1.5,,19,3.35,#1a9641
-8/1/2021,Total nonfarm,21.5,33.4,4.7,1.3,14.3,20.2,0.8,5.57,21.25,#1a9641
-8/1/2021,Total private,31.1,51,6.9,2,20.1,29,,5.8,32.31,#1a9641
-8/1/2021,"Trade, transportation, and utilities",5.1,6.9,1,0.3,3.8,5,,5.6,4.67,#1a9641
-8/1/2021,"Transportation, warehousing, and utilities",4.4,8.2,0.9,0.2,2.4,3.5,,6.89,4.93,#1a9641
-8/1/2021,Wholesale trade,3.4,4.5,0.5,0.2,2.8,3.5,,7.8,3.41,#1a9641
-9/1/2021,Accommodation and food services,8.1,9.5,1.1,0.2,6.6,7.9,,7.27,7.02,#1a9641
-9/1/2021,"Arts, entertainment, and recreation",9.3,8.7,2.3,0.2,5.7,8.2,,2.22,3.98,#1a9641
-9/1/2021,Construction,4.7,4.3,1.6,0.2,2.5,4.3,,1.31,1.53,#d7191c
-9/1/2021,Durable goods manufacturing,3.4,6.3,0.8,0.2,2.2,3.1,,6.38,4.05,#1a9641
-9/1/2021,Education and health services,3.5,7.4,0.6,0.2,2.8,3.6,,11.17,5.74,#1a9641
-9/1/2021,Educational services,1.4,3.7,0.5,0.1,1.7,2.4,,8,3.31,#1a9641
-9/1/2021,Federal,1.4,4.6,0.3,0.4,0.8,1.5,,13.33,3.33,#1a9641
-9/1/2021,Finance and insurance,2.8,4.4,0.4,0.9,1.5,2.9,,7.75,2.72,#a6d96a
-9/1/2021,Financial activities,2.9,4.5,0.5,0.7,1.5,2.8,,6.2,2.63,#a6d96a
-9/1/2021,Government,1.2,3.7,0.2,0.3,1,1.5,,17.5,3.09,#a6d96a
-9/1/2021,Health care and social assistance,3.9,8,0.6,0.2,2.9,3.8,,11.67,6.05,#1a9641
-9/1/2021,Information,3.9,7.6,0.8,0.4,1.5,2.7,,6.5,4.01,#1a9641
-9/1/2021,Leisure and hospitality,8.3,9.4,1.3,0.2,6.4,7.9,,5.77,6.44,#1a9641
-9/1/2021,Manufacturing,3.9,6.7,0.8,0.2,2.7,3.7,,6.88,4.52,#1a9641
-9/1/2021,Mining and logging,3.1,5.2,0.8,0.3,1.5,2.6,,4.5,2.75,#a6d96a
-9/1/2021,Nondurable goods manufacturing,4.7,7.4,0.9,0.2,3.5,4.6,,6.89,5.19,#1a9641
-9/1/2021,Other services,4.7,6.3,1.2,0.3,3.1,4.7,,3.92,3.74,#1a9641
-9/1/2021,Professional and business services,5.8,7.8,1.8,0.3,3.3,5.5,,2.94,3.99,#1a9641
-9/1/2021,Real estate and rental and leasing,3,5,0.7,0.2,1.6,2.5,,5.14,2.81,#a6d96a
-9/1/2021,Retail trade,5.8,6.8,1,0.2,4.4,5.6,,5.4,4.58,#1a9641
-9/1/2021,State and local,1.2,3.6,0.2,0.3,1,1.5,,17,3,#a6d96a
-9/1/2021,State and local government education,0.7,1.8,0.3,0.3,1.1,1.7,,7.33,1.87,#fdae61
-9/1/2021,"State and local government, excluding education",1.8,5.6,0.1,0.3,1,1.3,,48,4.46,#1a9641
-9/1/2021,Total nonfarm,21.5,32.8,4.5,1.4,14.6,20.7,0.7,5.76,21.28,#1a9641
-9/1/2021,Total private,31.6,50.3,6.9,2.3,20.7,30,,5.71,32.03,#1a9641
-9/1/2021,"Trade, transportation, and utilities",5,6.9,0.9,0.2,3.6,4.7,,6.11,4.62,#1a9641
-9/1/2021,"Transportation, warehousing, and utilities",4.7,8.4,1.2,0.3,2.7,4.1,,5.33,4.95,#1a9641
-9/1/2021,Wholesale trade,3.3,5.3,0.5,0.2,2.2,2.9,,8.4,3.58,#1a9641
+﻿date,industry,HI,JO,LD,OS,QU,TS,UO,score,new_score,color_code,super_group,type
+1/1/2021,Accommodation and food services,7.1,5.4,1.7,0.2,5.1,7,,2,2.74,#a6d96a,0,0
+1/1/2021,"Arts, entertainment, and recreation",7.1,4.5,4.1,0.1,3.8,8,,0.29,0.79,#d7191c,0,0
+1/1/2021,Construction,4.7,3.9,2.5,0.2,1.9,4.6,,0.44,0.71,#d7191c,1,Goods
+1/1/2021,Durable goods manufacturing,2.5,3.9,0.6,0.2,1.9,2.7,,5.5,2.7,#a6d96a,0,0
+1/1/2021,Education and health services,3,5.6,0.7,0.2,2,2.9,,6.57,3.71,#1a9641,1,Services
+1/1/2021,Educational services,3.3,4.2,0.6,0.1,0.7,1.4,,2.67,1.12,#d7191c,0,0
+1/1/2021,Federal,1.1,2.7,0.6,0.5,0.9,2,,4.17,1.92,#fdae61,0,0
+1/1/2021,Finance and insurance,1.9,3.3,0.2,0.3,1.6,2.1,,15,2.74,#a6d96a,0,0
+1/1/2021,Financial activities,2.3,3.4,0.4,0.3,1.7,2.4,,7,2.4,#fdae61,1,Services
+1/1/2021,Government,1.7,3.2,0.4,0.3,0.8,1.5,,5.75,1.82,#d7191c,1,Services
+1/1/2021,Health care and social assistance,3,5.8,0.7,0.3,2.2,3.2,,7.14,4.1,#1a9641,0,0
+1/1/2021,Information,2.9,4.6,0.8,0.2,1.4,2.5,,3.88,2.35,#fdae61,1,Services
+1/1/2021,Leisure and hospitality,7.1,5.3,2,0.2,4.9,7.1,,1.55,2.42,#fdae61,1,Services
+1/1/2021,Manufacturing,2.9,4.2,0.7,0.2,2.1,3,,4.86,2.76,#a6d96a,1,Goods
+1/1/2021,Mining and logging,2.9,3.9,1.2,0.4,1.3,2.8,,1.92,1.61,#d7191c,1,Goods
+1/1/2021,Nondurable goods manufacturing,3.4,4.7,0.9,0.2,2.4,3.4,,4.11,2.93,#a6d96a,0,0
+1/1/2021,Other services,3.9,4.6,1.5,0.1,2.1,3.7,,1.87,1.99,#fdae61,1,Services
+1/1/2021,Professional and business services,5.2,6.4,1.8,0.2,2.8,4.9,,2.22,2.93,#a6d96a,1,Services
+1/1/2021,Real estate and rental and leasing,3.4,3.5,0.9,0.5,1.9,3.2,,2.22,1.56,#d7191c,0,0
+1/1/2021,Retail trade,5.1,5,1.1,0.1,3.5,4.7,,3.09,2.76,#a6d96a,0,0
+1/1/2021,State and local,1.8,3.3,0.4,0.2,0.7,1.4,,5.5,1.71,#d7191c,0,0
+1/1/2021,State and local government education,2,2.9,0.2,0.2,0.6,1.1,,7.5,1.27,#d7191c,0,0
+1/1/2021,"State and local government, excluding education",1.5,3.7,0.5,0.3,0.9,1.7,,6.2,2.4,#fdae61,0,0
+1/1/2021,Total nonfarm,18.9,23.3,6.1,1,11.3,18.4,1.4,2.57,11.79,#1a9641,2,0
+1/1/2021,Total private,26.9,35,8.8,1.5,15.9,26.3,,2.73,17.98,#1a9641,2,0
+1/1/2021,"Trade, transportation, and utilities",4.4,4.6,1.5,0.1,2.8,4.4,,2,2.24,#fdae61,1,Services
+1/1/2021,"Transportation, warehousing, and utilities",4.1,5,3,0.2,2.3,5.5,,1.07,2.07,#fdae61,0,0
+1/1/2021,Wholesale trade,2.7,3.3,1.1,0.1,1.3,2.4,,1.73,1.3,#d7191c,0,0
+2/1/2021,Accommodation and food services,9,6.4,1.5,0.2,4.9,6.6,,1.53,1.87,#fdae61,0,0
+2/1/2021,"Arts, entertainment, and recreation",7.8,7.2,4.2,0.2,3,7.3,,0.57,1.52,#d7191c,0,0
+2/1/2021,Construction,5.4,3.6,3.3,0.2,2.3,5.8,,0.15,0.32,#d7191c,1,Goods
+2/1/2021,Durable goods manufacturing,2.9,3.8,0.6,0.2,1.8,2.6,,4.5,2.19,#fdae61,0,0
+2/1/2021,Education and health services,3,6.4,0.7,0.2,2,2.9,,7.71,4.35,#1a9641,1,Services
+2/1/2021,Educational services,2.5,3,0.9,0.1,1.3,2.4,,2,1.31,#d7191c,0,0
+2/1/2021,Federal,1.3,3,0.4,0.4,0.6,1.4,,5.75,1.79,#d7191c,0,0
+2/1/2021,Finance and insurance,2,3.4,0.5,0.2,1.3,2,,5.4,2.16,#fdae61,0,0
+2/1/2021,Financial activities,2.3,3.3,0.6,0.2,1.5,2.3,,4.17,1.98,#fdae61,1,Services
+2/1/2021,Government,1.4,3,0.4,0.3,0.9,1.6,,6.25,2,#fdae61,1,Services
+2/1/2021,Health care and social assistance,3.1,7,0.7,0.2,2.1,3,,8.57,4.86,#1a9641,0,0
+2/1/2021,Information,3.3,3.9,1,0.4,1.5,2.9,,2.1,1.56,#d7191c,1,Services
+2/1/2021,Leisure and hospitality,8.8,6.5,1.8,0.2,4.6,6.7,,1.28,1.81,#d7191c,1,Services
+2/1/2021,Manufacturing,3.2,4.5,0.7,0.2,2.1,3,,4.86,2.76,#a6d96a,1,Goods
+2/1/2021,Mining and logging,3.2,3.3,1.4,0.2,2.1,3.7,,1.57,1.6,#d7191c,1,Goods
+2/1/2021,Nondurable goods manufacturing,3.8,5.6,0.9,0.2,2.5,3.7,,4.78,3.46,#1a9641,0,0
+2/1/2021,Other services,4.5,5,1.5,0.2,2.4,4.1,,1.93,2.12,#fdae61,1,Services
+2/1/2021,Professional and business services,5.5,6.2,1.9,0.3,2.9,5.1,,1.89,2.62,#a6d96a,1,Services
+2/1/2021,Real estate and rental and leasing,3,3.2,1,0.1,2.1,3.1,,2.3,1.74,#d7191c,0,0
+2/1/2021,Retail trade,4.8,5.1,1.2,0.1,3.6,4.9,,3.25,3.13,#a6d96a,0,0
+2/1/2021,State and local,1.4,3,0.4,0.3,1,1.7,,6.5,2.1,#fdae61,0,0
+2/1/2021,State and local government education,1.3,1.8,0.4,0.3,1,1.7,,3.75,1.21,#d7191c,0,0
+2/1/2021,"State and local government, excluding education",1.6,4.2,0.4,0.3,0.9,1.7,,8.75,2.83,#a6d96a,0,0
+2/1/2021,Total nonfarm,20.1,24.6,6,1,11.5,18.7,,2.67,12.11,#1a9641,2,0
+2/1/2021,Total private,28.3,37.4,8.7,1.5,16.4,26.6,,2.93,19.22,#1a9641,2,0
+2/1/2021,"Trade, transportation, and utilities",4.1,4.9,1.2,0.2,2.8,4.1,,3,2.78,#a6d96a,1,Services
+2/1/2021,"Transportation, warehousing, and utilities",3.9,5.5,1.5,0.2,2.1,3.7,,2.47,2.63,#a6d96a,0,0
+2/1/2021,Wholesale trade,2.5,3.7,0.8,0.2,1.4,2.5,,3.25,1.97,#fdae61,0,0
+3/1/2021,Accommodation and food services,8.5,7.7,1.5,0.3,5.4,7.2,,3.07,3.81,#1a9641,0,0
+3/1/2021,"Arts, entertainment, and recreation",8.8,10.3,3.4,0.1,2.9,6.4,,1.29,2.87,#a6d96a,0,0
+3/1/2021,Construction,5.9,4.3,2,0.1,2.7,4.8,,0.55,0.78,#d7191c,1,Goods
+3/1/2021,Durable goods manufacturing,3.3,4.9,0.8,0.2,2,3,,4.5,2.84,#a6d96a,0,0
+3/1/2021,Education and health services,3.2,5.8,0.6,0.2,2.2,2.9,,8,3.98,#1a9641,1,Services
+3/1/2021,Educational services,3.3,4,0.8,0.1,1.3,2.3,,2.5,1.48,#d7191c,0,0
+3/1/2021,Federal,1.2,4.2,0.3,0.4,0.6,1.3,,12,2.93,#a6d96a,0,0
+3/1/2021,Finance and insurance,2,3.9,0.6,0.2,1.2,2,,5.17,2.38,#fdae61,0,0
+3/1/2021,Financial activities,2.4,3.8,0.7,0.2,1.4,2.3,,4,2.15,#fdae61,1,Services
+3/1/2021,Government,1.7,3.8,0.4,0.3,0.8,1.6,,7.25,2.32,#fdae61,1,Services
+3/1/2021,Health care and social assistance,3.2,6.1,0.5,0.2,2.3,3,,10.4,4.46,#1a9641,0,0
+3/1/2021,Information,3.5,3.7,1,0.2,2.1,3.3,,2.3,1.77,#d7191c,1,Services
+3/1/2021,Leisure and hospitality,8.5,8,1.8,0.3,5.1,7.1,,2.56,3.67,#1a9641,1,Services
+3/1/2021,Manufacturing,3.5,5.7,1,0.2,2.1,3.3,,4.3,3.3,#1a9641,1,Goods
+3/1/2021,Mining and logging,5,4.8,0.6,0.1,1.5,2.3,,2.17,1.03,#d7191c,1,Goods
+3/1/2021,Nondurable goods manufacturing,3.9,7.1,1.2,0.1,2.4,3.7,,4.67,4.23,#1a9641,0,0
+3/1/2021,Other services,4.1,4.7,1.1,0.2,2.3,3.7,,2.64,2.24,#fdae61,1,Services
+3/1/2021,Professional and business services,5.4,6.4,1.7,0.4,2.9,5.1,,2.29,2.93,#a6d96a,1,Services
+3/1/2021,Real estate and rental and leasing,3.4,3.5,1,0,1.9,2.9,,2,1.49,#d7191c,0,0
+3/1/2021,Retail trade,5,5.6,1,0.2,3.6,4.8,,4.2,3.48,#1a9641,0,0
+3/1/2021,State and local,1.7,3.7,0.4,0.3,0.9,1.6,,7.25,2.32,#fdae61,0,0
+3/1/2021,State and local government education,1.7,2.7,0.4,0.2,0.9,1.5,,4.75,1.5,#d7191c,0,0
+3/1/2021,"State and local government, excluding education",1.8,4.8,0.5,0.3,0.9,1.7,,7.8,3.01,#a6d96a,0,0
+3/1/2021,Total nonfarm,20.7,27,5.3,1,12,18.6,1.2,3.45,14.24,#1a9641,2,0
+3/1/2021,Total private,29,39.9,7.7,1.5,17.3,26.6,,3.66,21.87,#1a9641,2,0
+3/1/2021,"Trade, transportation, and utilities",4.3,5.4,1,0.2,2.9,4.1,,4,3.22,#a6d96a,1,Services
+3/1/2021,"Transportation, warehousing, and utilities",4,6.1,1.4,0.1,2.5,4,,3.29,3.41,#1a9641,0,0
+3/1/2021,Wholesale trade,2.6,4.3,0.7,0.2,1.6,2.5,,4.71,2.58,#a6d96a,0,0
+4/1/2021,Accommodation and food services,9.4,8.7,1.5,0.3,5.7,7.5,,3.33,4.17,#1a9641,0,0
+4/1/2021,"Arts, entertainment, and recreation",9.8,11.5,2.5,0.2,3,5.7,,1.88,3.27,#1a9641,0,0
+4/1/2021,Construction,4.4,4.5,2.1,0.2,2.4,4.7,,1.19,1.73,#d7191c,1,Goods
+4/1/2021,Durable goods manufacturing,2.8,5.7,0.9,0.3,2,3.2,,5.44,3.82,#1a9641,0,0
+4/1/2021,Education and health services,3.2,6.1,0.6,0.1,2.4,3.1,,8.83,4.44,#1a9641,1,Services
+4/1/2021,Educational services,2.5,3.6,1,0.2,1.5,2.7,,2.6,1.9,#fdae61,0,0
+4/1/2021,Federal,1.5,4.7,0.3,0.4,0.6,1.3,,12.67,3.09,#a6d96a,0,0
+4/1/2021,Finance and insurance,2.1,4.3,0.3,0.3,1.6,2.1,,12.67,3.33,#1a9641,0,0
+4/1/2021,Financial activities,2.4,4.5,0.4,0.2,1.6,2.3,,9.25,3.15,#a6d96a,1,Services
+4/1/2021,Government,1.6,4.1,0.4,0.3,0.8,1.5,,8.25,2.61,#a6d96a,1,Services
+4/1/2021,Health care and social assistance,3.3,6.5,0.5,0.1,2.5,3.1,,11.4,4.91,#1a9641,0,0
+4/1/2021,Information,3.7,4,0.9,0.3,1.9,3.1,,2.44,1.71,#d7191c,1,Services
+4/1/2021,Leisure and hospitality,9.5,9.1,1.7,0.2,5.3,7.2,,2.88,3.96,#1a9641,1,Services
+4/1/2021,Manufacturing,3.3,6.3,0.9,0.2,2.3,3.5,,5.89,4.22,#1a9641,1,Goods
+4/1/2021,Mining and logging,3.5,3.6,1.2,0.3,1.9,3.3,,1.67,1.47,#d7191c,1,Goods
+4/1/2021,Nondurable goods manufacturing,3.9,7.2,1,0.2,2.8,4,,6.1,4.88,#1a9641,0,0
+4/1/2021,Other services,4.5,6.1,1.4,0.2,2.3,3.9,,2.79,2.87,#a6d96a,1,Services
+4/1/2021,Professional and business services,5.1,7.1,1.4,0.3,3.7,5.4,,4.07,4.53,#1a9641,1,Services
+4/1/2021,Real estate and rental and leasing,3.1,5.2,0.7,0.2,1.8,2.7,,5.57,3.1,#a6d96a,0,0
+4/1/2021,Retail trade,5.2,5.9,1,0.4,4.1,5.5,,4.8,4.06,#1a9641,0,0
+4/1/2021,State and local,1.6,4,0.4,0.2,0.9,1.5,,8.25,2.61,#a6d96a,0,0
+4/1/2021,State and local government education,1.6,2.9,0.4,0.2,0.9,1.5,,5.5,1.74,#d7191c,0,0
+4/1/2021,"State and local government, excluding education",1.7,5.3,0.4,0.3,0.9,1.6,,11.25,3.6,#1a9641,0,0
+4/1/2021,Total nonfarm,20.6,29.8,5,1.2,13.4,19.7,1.1,4.52,18.03,#1a9641,2,0
+4/1/2021,Total private,29.2,44.2,7.7,1.7,19.3,28.8,,4.45,27.06,#1a9641,2,0
+4/1/2021,"Trade, transportation, and utilities",4.5,5.7,1,0.3,3.5,4.8,,4.7,3.89,#1a9641,1,Services
+4/1/2021,"Transportation, warehousing, and utilities",3.9,6.1,1.4,0.3,3.3,5,,3.93,4.3,#1a9641,0,0
+4/1/2021,Wholesale trade,3,4.8,0.8,0.2,2,3,,4.75,3,#a6d96a,0,0
+5/1/2021,Accommodation and food services,9.3,9.6,1.2,0.2,5.7,7,,5,5.12,#1a9641,0,0
+5/1/2021,"Arts, entertainment, and recreation",9.5,9,2.8,0.3,3,6.2,,0.89,1.72,#d7191c,0,0
+5/1/2021,Construction,4.1,4.1,2.2,0.3,2.1,4.5,,0.95,1.41,#d7191c,1,Goods
+5/1/2021,Durable goods manufacturing,3.1,5.9,0.8,0.2,1.6,2.6,,5.5,3.36,#1a9641,0,0
+5/1/2021,Education and health services,3.2,6.5,0.5,0.2,2.2,2.9,,11,4.69,#1a9641,1,Services
+5/1/2021,Educational services,2.9,4.6,0.4,0.1,1.5,1.9,,8,2.64,#a6d96a,0,0
+5/1/2021,Federal,1.2,4.2,0.3,0.4,0.8,1.5,,12.67,3.17,#a6d96a,0,0
+5/1/2021,Finance and insurance,2,4.2,0.4,0.4,1.3,2.1,,8.75,2.94,#a6d96a,0,0
+5/1/2021,Financial activities,2.3,4.3,0.5,0.4,1.4,2.2,,6.8,2.77,#a6d96a,1,Services
+5/1/2021,Government,1.5,3.9,0.3,0.2,0.7,1.3,,10.33,2.52,#a6d96a,1,Services
+5/1/2021,Health care and social assistance,3.3,6.8,0.5,0.2,2.4,3.1,,11.8,5.08,#1a9641,0,0
+5/1/2021,Information,3.6,4.9,1,0.2,1.6,2.9,,2.9,2.16,#fdae61,1,Services
+5/1/2021,Leisure and hospitality,9.4,9.5,1.4,0.2,5.3,6.9,,3.86,4.49,#1a9641,1,Services
+5/1/2021,Manufacturing,3.5,6.5,0.9,0.2,2,3.1,,5.56,3.88,#1a9641,1,Goods
+5/1/2021,Mining and logging,3.8,4,1.3,0.4,1.7,3.4,,1.46,1.37,#d7191c,1,Goods
+5/1/2021,Nondurable goods manufacturing,4.1,7.4,1,0.2,2.7,3.9,,6,4.78,#1a9641,0,0
+5/1/2021,Other services,4,8,1,0.3,2.6,3.9,,6.6,5.25,#1a9641,1,Services
+5/1/2021,Professional and business services,5.1,7,1.3,0.4,3,4.7,,3.77,3.84,#1a9641,1,Services
+5/1/2021,Real estate and rental and leasing,3.1,4.3,0.8,0.3,1.6,2.7,,3.5,2.16,#fdae61,0,0
+5/1/2021,Retail trade,5.5,6.3,1,0.2,3.9,5,,4.7,3.92,#1a9641,0,0
+5/1/2021,State and local,1.5,3.9,0.3,0.2,0.7,1.3,,10.33,2.52,#a6d96a,0,0
+5/1/2021,State and local government education,1.8,3.2,0.3,0.1,0.7,1.1,,7,1.65,#d7191c,0,0
+5/1/2021,"State and local government, excluding education",1.2,4.6,0.4,0.3,0.8,1.5,,10.5,3.32,#1a9641,0,0
+5/1/2021,Total nonfarm,20.4,30.5,4.6,1.2,12.1,18.2,1,4.83,17.72,#1a9641,2,0
+5/1/2021,Total private,29,45.6,7,1.8,17.6,26.3,,4.89,27.01,#1a9641,2,0
+5/1/2021,"Trade, transportation, and utilities",4.7,5.8,1,0.2,3.1,4.3,,4.2,3.41,#1a9641,1,Services
+5/1/2021,"Transportation, warehousing, and utilities",4.4,5.9,1.3,0.2,2.6,4.2,,3.15,3.13,#a6d96a,0,0
+5/1/2021,Wholesale trade,2.9,4.6,0.8,0.1,1.6,2.5,,4.13,2.5,#a6d96a,0,0
+6/1/2021,Accommodation and food services,9.5,10.3,0.8,0.2,5.5,6.5,,7.88,5.61,#1a9641,0,0
+6/1/2021,"Arts, entertainment, and recreation",8.8,9.6,2.6,0.1,3.2,5.9,,1.54,2.78,#a6d96a,0,0
+6/1/2021,Construction,5,4.4,2.5,0.1,2.5,5.1,,0.76,1.28,#d7191c,1,Goods
+6/1/2021,Durable goods manufacturing,3.7,6.1,0.8,0.2,2.1,3.1,,5.63,3.58,#1a9641,0,0
+6/1/2021,Education and health services,3.4,6.7,0.5,0.2,2.3,3.1,,11.2,4.82,#1a9641,1,Services
+6/1/2021,Educational services,3.6,5.4,0.4,0.1,1.3,1.8,,7.75,2.54,#a6d96a,0,0
+6/1/2021,Federal,1.3,4,0.4,0.5,0.9,1.7,,9,2.91,#a6d96a,0,0
+6/1/2021,Finance and insurance,2.1,3.6,0.6,0.4,1.2,2.2,,4.5,2.12,#fdae61,0,0
+6/1/2021,Financial activities,2.4,3.8,0.5,0.4,1.4,2.3,,5.6,2.3,#fdae61,1,Services
+6/1/2021,Government,2,4.2,0.2,0.2,0.7,1.2,,14.5,2.49,#a6d96a,1,Services
+6/1/2021,Health care and social assistance,3.3,7,0.5,0.3,2.5,3.3,,12.4,5.38,#1a9641,0,0
+6/1/2021,Information,3.3,5.6,1.1,0.4,1.8,3.2,,3.73,3.05,#a6d96a,1,Services
+6/1/2021,Leisure and hospitality,9.4,10.2,1.1,0.2,5.2,6.5,,5.45,5.13,#1a9641,1,Services
+6/1/2021,Manufacturing,3.9,6.7,0.8,0.2,2.5,3.5,,6.63,4.31,#1a9641,1,Goods
+6/1/2021,Mining and logging,4,4.3,0.9,0.2,1.9,3,,2.44,1.69,#d7191c,1,Goods
+6/1/2021,Nondurable goods manufacturing,4.3,7.6,0.9,0.2,3,4.1,,7,5.17,#1a9641,0,0
+6/1/2021,Other services,5,7,1,0.1,2.3,3.4,,4.3,3.32,#1a9641,1,Services
+6/1/2021,Professional and business services,5.6,7.6,1.5,0.5,3.3,5.3,,3.53,4.13,#1a9641,1,Services
+6/1/2021,Real estate and rental and leasing,3.1,4.2,0.2,0.3,2.2,2.6,,16.5,3.06,#a6d96a,0,0
+6/1/2021,Retail trade,7.3,7.2,1.2,0.2,4.2,5.6,,3.42,3.38,#1a9641,0,0
+6/1/2021,State and local,2.1,4.2,0.2,0.2,0.7,1.1,,14,2.37,#fdae61,0,0
+6/1/2021,State and local government education,2.7,4.3,0.1,0.1,0.3,0.6,,19,1.63,#d7191c,0,0
+6/1/2021,"State and local government, excluding education",1.4,4.2,0.3,0.3,1.1,1.7,,13,3.32,#1a9641,0,0
+6/1/2021,Total nonfarm,23,32.5,4.6,1.5,13,18.9,0.9,4.89,18.1,#1a9641,2,0
+6/1/2021,Total private,33.1,49.5,6.8,2.2,18.5,27.6,,5.13,28,#1a9641,2,0
+6/1/2021,"Trade, transportation, and utilities",5.8,6.6,1.1,0.2,3.3,4.6,,3.73,3.31,#1a9641,1,Services
+6/1/2021,"Transportation, warehousing, and utilities",4.5,7,1.3,0.3,2.6,4.2,,3.92,3.89,#1a9641,0,0
+6/1/2021,Wholesale trade,3.1,4.6,0.5,0.2,1.8,2.5,,6.6,2.75,#a6d96a,0,0
+7/1/2021,Accommodation and food services,9.6,11.3,0.9,0.2,5.6,6.7,,8.11,6.44,#1a9641,0,0
+7/1/2021,"Arts, entertainment, and recreation",8.7,10.2,2.4,0.1,3.4,6,,2.04,3.5,#1a9641,0,0
+7/1/2021,Construction,5.1,4.5,2.2,0.2,2.7,5.2,,0.95,1.48,#d7191c,1,Goods
+7/1/2021,Durable goods manufacturing,3.4,6.3,0.9,0.1,2,3,,5.44,3.77,#1a9641,0,0
+7/1/2021,Education and health services,3.3,7.7,0.3,0.2,2.5,2.9,,23,6.25,#1a9641,1,Services
+7/1/2021,Educational services,3.1,5.2,0.5,0.1,1.4,1.9,,7,2.77,#a6d96a,0,0
+7/1/2021,Federal,1.7,4,0.3,0.5,0.7,1.4,,10,2.47,#a6d96a,0,0
+7/1/2021,Finance and insurance,2.2,5,0.5,0.4,1.2,2,,8,3.2,#a6d96a,0,0
+7/1/2021,Financial activities,2.5,5.7,0.5,0.3,1.5,2.3,,9.4,3.86,#1a9641,1,Services
+7/1/2021,Government,2.2,4.6,0.2,0.2,0.7,1.2,,15.5,2.66,#a6d96a,1,Services
+7/1/2021,Health care and social assistance,3.3,8.1,0.3,0.2,2.7,3.1,,25,6.84,#1a9641,0,0
+7/1/2021,Information,3.6,5.5,0.9,0.1,1.8,2.9,,4.11,2.82,#a6d96a,1,Services
+7/1/2021,Leisure and hospitality,9.5,11.2,1.1,0.2,5.3,6.6,,6.36,6,#1a9641,1,Services
+7/1/2021,Manufacturing,3.8,6.8,1,0.1,2.4,3.5,,5.4,4.2,#1a9641,1,Goods
+7/1/2021,Mining and logging,3.8,6,1.1,0.2,1.5,2.7,,3.36,2.63,#a6d96a,1,Goods
+7/1/2021,Nondurable goods manufacturing,4.6,7.7,1.1,0.2,3.1,4.4,,5.64,4.96,#1a9641,0,0
+7/1/2021,Other services,4.8,7.4,1.5,0.2,2.5,4.2,,3.4,3.76,#1a9641,1,Services
+7/1/2021,Professional and business services,6,8.1,1.9,0.4,3.3,5.7,,2.84,4.05,#1a9641,1,Services
+7/1/2021,Real estate and rental and leasing,3.5,7.5,0.7,0.1,2.4,3.2,,9.14,5.25,#1a9641,0,0
+7/1/2021,Retail trade,5.6,6.9,1.1,0.3,4.4,5.8,,5.18,4.79,#1a9641,0,0
+7/1/2021,State and local,2.3,4.6,0.2,0.2,0.7,1.1,,15,2.54,#a6d96a,0,0
+7/1/2021,State and local government education,2.8,3.9,0.2,0.1,0.4,0.7,,7.5,1.17,#d7191c,0,0
+7/1/2021,"State and local government, excluding education",1.7,5.5,0.3,0.3,1,1.7,,16,4.08,#1a9641,0,0
+7/1/2021,Total nonfarm,22.7,34.9,4.9,1.1,13.5,19.4,0.8,5.24,20.52,#1a9641,2,0
+7/1/2021,Total private,32.1,52.1,7.2,1.6,19.1,27.7,,5.43,31.03,#1a9641,2,0
+7/1/2021,"Trade, transportation, and utilities",4.8,6.5,1,0.2,3.5,4.7,,5.2,4.29,#1a9641,1,Services
+7/1/2021,"Transportation, warehousing, and utilities",4.3,7.3,1.1,0.2,2.3,3.6,,4.82,4.06,#1a9641,0,0
+7/1/2021,Wholesale trade,3.2,4.4,0.5,0.1,2.3,2.8,,7,2.97,#a6d96a,0,0
+8/1/2021,Accommodation and food services,8.2,10,1.2,0.2,6.6,8.1,,7,7.32,#1a9641,0,0
+8/1/2021,"Arts, entertainment, and recreation",9,9.5,2.4,0.1,3.2,5.6,,1.54,2.59,#a6d96a,0,0
+8/1/2021,Construction,5.3,4.6,2.3,0.3,2.6,5.2,,0.83,1.32,#d7191c,1,Goods
+8/1/2021,Durable goods manufacturing,3.4,5.9,0.8,0.2,2.2,3.2,,5.88,3.76,#1a9641,0,0
+8/1/2021,Education and health services,3.4,7,0.5,0.1,2.5,3.1,,12.2,5.25,#1a9641,1,Services
+8/1/2021,Educational services,3.8,4.8,0.6,0.1,1.2,1.9,,3.67,1.67,#d7191c,0,0
+8/1/2021,Federal,1.6,4.5,0.3,0.5,0.7,1.5,,12,3,#a6d96a,0,0
+8/1/2021,Finance and insurance,1.9,4.2,0.4,0.3,1.3,2,,9,3,#a6d96a,0,0
+8/1/2021,Financial activities,2.3,5.1,0.5,0.3,1.4,2.2,,8.4,3.42,#1a9641,1,Services
+8/1/2021,Government,1.6,3.7,0.2,0.3,0.8,1.3,,14.5,2.51,#a6d96a,1,Services
+8/1/2021,Health care and social assistance,3.4,7.4,0.4,0.2,2.8,3.4,,17,6.08,#1a9641,0,0
+8/1/2021,Information,3.8,6.1,0.9,0.5,1.5,2.9,,4.22,2.9,#a6d96a,1,Services
+8/1/2021,Leisure and hospitality,8.4,9.9,1.4,0.2,6.1,7.7,,5.43,6.43,#1a9641,1,Services
+8/1/2021,Manufacturing,3.8,6.5,0.8,0.2,2.5,3.6,,6.5,4.25,#1a9641,1,Goods
+8/1/2021,Mining and logging,3.7,5.6,1.2,0.2,1.6,2.9,,2.92,2.48,#a6d96a,1,Goods
+8/1/2021,Nondurable goods manufacturing,4.6,7.5,0.9,0.2,3,4.2,,6.56,4.86,#1a9641,0,0
+8/1/2021,Other services,4.3,7.8,0.7,0.1,2.3,3.2,,8.29,4.76,#1a9641,1,Services
+8/1/2021,Professional and business services,5.7,8.2,1.6,0.4,3.3,5.4,,3.63,4.47,#1a9641,1,Services
+8/1/2021,Real estate and rental and leasing,3.3,7.5,0.9,0.3,1.8,2.9,,6.67,4.58,#1a9641,0,0
+8/1/2021,Retail trade,6.1,7.2,1.2,0.3,4.8,6.2,,4.92,4.94,#1a9641,0,0
+8/1/2021,State and local,1.6,3.6,0.2,0.2,0.8,1.3,,14,2.43,#fdae61,0,0
+8/1/2021,State and local government education,1.6,2.8,0.3,0.2,0.7,1.2,,6.33,1.52,#d7191c,0,0
+8/1/2021,"State and local government, excluding education",1.7,4.5,0.2,0.3,1,1.5,,19,3.35,#1a9641,0,0
+8/1/2021,Total nonfarm,21.5,33.4,4.7,1.3,14.3,20.2,0.8,5.57,21.25,#1a9641,2,0
+8/1/2021,Total private,31.1,51,6.9,2,20.1,29,,5.8,32.31,#1a9641,2,0
+8/1/2021,"Trade, transportation, and utilities",5.1,6.9,1,0.3,3.8,5,,5.6,4.67,#1a9641,1,Services
+8/1/2021,"Transportation, warehousing, and utilities",4.4,8.2,0.9,0.2,2.4,3.5,,6.89,4.93,#1a9641,0,0
+8/1/2021,Wholesale trade,3.4,4.5,0.5,0.2,2.8,3.5,,7.8,3.41,#1a9641,0,0
+9/1/2021,Accommodation and food services,8.1,9.5,1.1,0.2,6.6,7.9,,7.27,7.02,#1a9641,0,0
+9/1/2021,"Arts, entertainment, and recreation",9.3,8.7,2.3,0.2,5.7,8.2,,2.22,3.98,#1a9641,0,0
+9/1/2021,Construction,4.7,4.3,1.6,0.2,2.5,4.3,,1.31,1.53,#d7191c,1,Goods
+9/1/2021,Durable goods manufacturing,3.4,6.3,0.8,0.2,2.2,3.1,,6.38,4.05,#1a9641,0,0
+9/1/2021,Education and health services,3.5,7.4,0.6,0.2,2.8,3.6,,11.17,5.74,#1a9641,1,Services
+9/1/2021,Educational services,1.4,3.7,0.5,0.1,1.7,2.4,,8,3.31,#1a9641,0,0
+9/1/2021,Federal,1.4,4.6,0.3,0.4,0.8,1.5,,13.33,3.33,#1a9641,0,0
+9/1/2021,Finance and insurance,2.8,4.4,0.4,0.9,1.5,2.9,,7.75,2.72,#a6d96a,0,0
+9/1/2021,Financial activities,2.9,4.5,0.5,0.7,1.5,2.8,,6.2,2.63,#a6d96a,1,Services
+9/1/2021,Government,1.2,3.7,0.2,0.3,1,1.5,,17.5,3.09,#a6d96a,1,Services
+9/1/2021,Health care and social assistance,3.9,8,0.6,0.2,2.9,3.8,,11.67,6.05,#1a9641,0,0
+9/1/2021,Information,3.9,7.6,0.8,0.4,1.5,2.7,,6.5,4.01,#1a9641,1,Services
+9/1/2021,Leisure and hospitality,8.3,9.4,1.3,0.2,6.4,7.9,,5.77,6.44,#1a9641,1,Services
+9/1/2021,Manufacturing,3.9,6.7,0.8,0.2,2.7,3.7,,6.88,4.52,#1a9641,1,Goods
+9/1/2021,Mining and logging,3.1,5.2,0.8,0.3,1.5,2.6,,4.5,2.75,#a6d96a,1,Goods
+9/1/2021,Nondurable goods manufacturing,4.7,7.4,0.9,0.2,3.5,4.6,,6.89,5.19,#1a9641,0,0
+9/1/2021,Other services,4.7,6.3,1.2,0.3,3.1,4.7,,3.92,3.74,#1a9641,1,Services
+9/1/2021,Professional and business services,5.8,7.8,1.8,0.3,3.3,5.5,,2.94,3.99,#1a9641,1,Services
+9/1/2021,Real estate and rental and leasing,3,5,0.7,0.2,1.6,2.5,,5.14,2.81,#a6d96a,0,0
+9/1/2021,Retail trade,5.8,6.8,1,0.2,4.4,5.6,,5.4,4.58,#1a9641,0,0
+9/1/2021,State and local,1.2,3.6,0.2,0.3,1,1.5,,17,3,#a6d96a,0,0
+9/1/2021,State and local government education,0.7,1.8,0.3,0.3,1.1,1.7,,7.33,1.87,#fdae61,0,0
+9/1/2021,"State and local government, excluding education",1.8,5.6,0.1,0.3,1,1.3,,48,4.46,#1a9641,0,0
+9/1/2021,Total nonfarm,21.5,32.8,4.5,1.4,14.6,20.7,0.7,5.76,21.28,#1a9641,2,0
+9/1/2021,Total private,31.6,50.3,6.9,2.3,20.7,30,,5.71,32.03,#1a9641,2,0
+9/1/2021,"Trade, transportation, and utilities",5,6.9,0.9,0.2,3.6,4.7,,6.11,4.62,#1a9641,1,Services
+9/1/2021,"Transportation, warehousing, and utilities",4.7,8.4,1.2,0.3,2.7,4.1,,5.33,4.95,#1a9641,0,0
+9/1/2021,Wholesale trade,3.3,5.3,0.5,0.2,2.2,2.9,,8.4,3.58,#1a9641,0,0
