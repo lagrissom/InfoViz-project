@@ -1,4 +1,4 @@
-﻿date,year,month,state,hi_level,jo_level,ld_level,qu_level,ts_level,hi_rate,jo_rate,ld_rate,qu_rate,ts_rate,raw_score,quit_score,area_rank,pop_rank,FIPS,Abbr,region
+date,year,month,state,hi_level,jo_level,ld_level,qu_level,ts_level,hi_rate,jo_rate,ld_rate,qu_rate,ts_rate,raw_score,quit_score,area_rank,pop_rank,FIPS,Abbr,region
 1/1/2019,2019,01,Alabama,76,95,23,46,74,3.7,4.4,1.1,2.2,3.6,7.89,67,30,24," ""01000""",AL,South
 1/1/2019,2019,01,Alaska,20,22,6,13,20,6.1,6.3,1.8,3.9,6.1,12.59,81,1,48," ""02000""",AK,West
 1/1/2019,2019,01,Arizona,123,196,27,85,118,4.2,6.3,0.9,2.9,4.1,10.99,76,6,14," ""04000""",AZ,West
